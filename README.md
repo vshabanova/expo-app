@@ -7,13 +7,12 @@
 ## 📖 Description
 WhatToDo is a mobile app, that lets users add, edit, remove or manage in general their own tasks or budget expenses. It uses Supabase database for storage and react-native for UI.
 
-## 🚀 Uzstādīšana un palaišana  
-
 ### ✅ Requirements
 - **Node.js** (`>=16.x`)  
 - **Expo CLI** (`npm install -g expo-cli`)  
 - **Supabase konts**  
 
+## 🚀 Setup
 ### 📥 How to setup the project
 1. **With these princips**  
    ```sh
